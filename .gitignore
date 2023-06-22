@@ -2,3 +2,6 @@
 *.exe
 tempCodeRunner.*
 CodeSnap/
+
+.inp
+.out
